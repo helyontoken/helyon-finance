@@ -12,7 +12,9 @@ This repository includes all strategic, corporate, and investor-facing documenta
 1. Corporate Documentation
 
 Mission & Vision
+
 Ecosystem Overview
+
 Helyon Finance Organizational Structure
 Branding & Identity Guidelines
 
